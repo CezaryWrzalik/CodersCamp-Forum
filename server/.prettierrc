@@ -1,0 +1,13 @@
+{
+  "endOfLine": "auto",
+  "semi": false,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "arrowParens": "always",
+  "singleQuote": true,
+  "trailingComma": "all",
+  "newline-before-return": true,
+  "no-duplicate-variable": [true, "check-parameters"],
+  "proseWrap": "never",
+  "quoteProps": "preserve"
+}

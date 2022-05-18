@@ -1,0 +1,11 @@
+{
+  "arrowParens": "always",
+  "singleQuote": true,
+  "trailingComma": "all",
+  "newline-before-return": true,
+  "no-duplicate-variable": [true, "check-parameters"],
+  "proseWrap": "never",
+  "endOfLine": "auto",
+  "quoteProps": "preserve",
+  "bracketSpacing": true
+}
